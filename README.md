@@ -28,8 +28,8 @@ Aplica descontos ou acréscimos de acordo com a forma de pagamento;
 
 Retorna o valor total formatado como string.
 
-Por que usamos esses métodos e abordagens?
-A classe CaixaDaLanchonete utiliza uma abordagem orientada a objetos para organizar a lógica de cálculo e validação das compras. O uso de um construtor permite inicializar as constantes do cardápio e formas de pagamento, tornando-as acessíveis em todo o escopo da classe.
+Por que usar estes métodos e abordagens?
+A classe CaixaDaLanchonete foi criada para organizar a lógica de cálculo e validação das compras. O uso de um construtor permite inicializar as constantes do cardápio e formas de pagamento, tornando-as acessíveis em todo o escopo da classe.
 
 O método calcularValorDaCompra é responsável por executar a lógica completa do cálculo do valor da compra. Ele foi programado para ser modular e legível, dividindo as etapas do cálculo em passos separados. Isso facilita a manutenção e depuração do código.
 
