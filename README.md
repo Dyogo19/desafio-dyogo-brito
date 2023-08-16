@@ -1,5 +1,4 @@
-# desafio-dyogo-brito
-Desafio DBserver JavaScript
+# Desafio DBserver JavaScript
 
 
 Classe CaixaDaLanchonete :
